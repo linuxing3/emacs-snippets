@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: env2
+# key: env2
+# condition: t
+# --
+#!/usr/bin/env python2

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: env3
+# key: env3
+# condition: t
+# --
+#!/usr/bin/env python3
