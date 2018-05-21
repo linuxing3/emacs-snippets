@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: React.Component{...}
+# key: erc
+# condition: t
+# --
+import React from "react";
+export default class ${1:ComponentName} extends React.Component{
+    render() {
+        return <div>${2:Context}</div>
+    }
+};

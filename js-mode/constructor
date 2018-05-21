@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 # name: constructor() { ... }
+# key: ctr
 # --
 constructor($1) {
     `%`$0
